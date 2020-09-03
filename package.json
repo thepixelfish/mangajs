@@ -1,0 +1,22 @@
+{
+  "name": "mangajs",
+  "version": "1.0.0",
+  "description": "A dictionary/collection of manga authors and examples of their works.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thepixelfish/mangajs.git"
+  },
+  "keywords": [
+    "manga"
+  ],
+  "author": "thepixelfish",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/thepixelfish/mangajs/issues"
+  },
+  "homepage": "https://github.com/thepixelfish/mangajs#readme"
+}
